@@ -1,0 +1,13 @@
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\bin\Debug\netcoreapp3.1\numbers_in_CSharp.exe
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\bin\Debug\netcoreapp3.1\numbers_in_CSharp.deps.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\bin\Debug\netcoreapp3.1\numbers_in_CSharp.runtimeconfig.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\bin\Debug\netcoreapp3.1\numbers_in_CSharp.runtimeconfig.dev.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\bin\Debug\netcoreapp3.1\numbers_in_CSharp.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\bin\Debug\netcoreapp3.1\numbers_in_CSharp.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\obj\Debug\netcoreapp3.1\numbers_in_CSharp.csprojAssemblyReference.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\obj\Debug\netcoreapp3.1\numbers_in_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\obj\Debug\netcoreapp3.1\numbers_in_CSharp.AssemblyInfoInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\obj\Debug\netcoreapp3.1\numbers_in_CSharp.AssemblyInfo.cs
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\obj\Debug\netcoreapp3.1\numbers_in_CSharp.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\obj\Debug\netcoreapp3.1\numbers_in_CSharp.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\numbers_in_CSharp\obj\Debug\netcoreapp3.1\numbers_in_CSharp.genruntimeconfig.cache

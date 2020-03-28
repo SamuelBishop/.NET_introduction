@@ -1,0 +1,13 @@
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\bin\Debug\netcoreapp3.1\hello_world.exe
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\bin\Debug\netcoreapp3.1\hello_world.deps.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\bin\Debug\netcoreapp3.1\hello_world.runtimeconfig.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\bin\Debug\netcoreapp3.1\hello_world.runtimeconfig.dev.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\bin\Debug\netcoreapp3.1\hello_world.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\bin\Debug\netcoreapp3.1\hello_world.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\obj\Debug\netcoreapp3.1\hello_world.csprojAssemblyReference.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\obj\Debug\netcoreapp3.1\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\obj\Debug\netcoreapp3.1\hello_world.AssemblyInfoInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\obj\Debug\netcoreapp3.1\hello_world.AssemblyInfo.cs
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\obj\Debug\netcoreapp3.1\hello_world.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\obj\Debug\netcoreapp3.1\hello_world.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\hello_world\obj\Debug\netcoreapp3.1\hello_world.genruntimeconfig.cache
