@@ -1,0 +1,13 @@
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\bin\Debug\netcoreapp3.1\branches_and_loops.exe
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\bin\Debug\netcoreapp3.1\branches_and_loops.deps.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\bin\Debug\netcoreapp3.1\branches_and_loops.runtimeconfig.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\bin\Debug\netcoreapp3.1\branches_and_loops.runtimeconfig.dev.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\bin\Debug\netcoreapp3.1\branches_and_loops.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\bin\Debug\netcoreapp3.1\branches_and_loops.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\obj\Debug\netcoreapp3.1\branches_and_loops.csprojAssemblyReference.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\obj\Debug\netcoreapp3.1\branches_and_loops.csproj.CoreCompileInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\obj\Debug\netcoreapp3.1\branches_and_loops.AssemblyInfoInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\obj\Debug\netcoreapp3.1\branches_and_loops.AssemblyInfo.cs
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\obj\Debug\netcoreapp3.1\branches_and_loops.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\obj\Debug\netcoreapp3.1\branches_and_loops.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\branches_and_loops\obj\Debug\netcoreapp3.1\branches_and_loops.genruntimeconfig.cache
