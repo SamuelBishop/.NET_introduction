@@ -1,0 +1,13 @@
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\bin\Debug\netcoreapp3.1\data_collection_list_type.exe
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\bin\Debug\netcoreapp3.1\data_collection_list_type.deps.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\bin\Debug\netcoreapp3.1\data_collection_list_type.runtimeconfig.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\bin\Debug\netcoreapp3.1\data_collection_list_type.runtimeconfig.dev.json
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\bin\Debug\netcoreapp3.1\data_collection_list_type.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\bin\Debug\netcoreapp3.1\data_collection_list_type.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\obj\Debug\netcoreapp3.1\data_collection_list_type.csprojAssemblyReference.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\obj\Debug\netcoreapp3.1\data_collection_list_type.csproj.CoreCompileInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\obj\Debug\netcoreapp3.1\data_collection_list_type.AssemblyInfoInputs.cache
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\obj\Debug\netcoreapp3.1\data_collection_list_type.AssemblyInfo.cs
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\obj\Debug\netcoreapp3.1\data_collection_list_type.dll
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\obj\Debug\netcoreapp3.1\data_collection_list_type.pdb
+C:\Users\Sam Bishop\Desktop\git\.NET_introduction\data_collection_list_type\obj\Debug\netcoreapp3.1\data_collection_list_type.genruntimeconfig.cache
